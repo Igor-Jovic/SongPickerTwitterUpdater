@@ -30,5 +30,3 @@ To build the project simply clone the repository, cd to the root directory and u
 
 - mvn compile
 - mvn package
-
-## Tests
