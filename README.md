@@ -28,7 +28,7 @@ Since the Song Recommender has dynamic IP address this bypasses that constraint 
 To use different Twitter account change the twitter4j.properties file in resources package. 
 To build the project simply clone the repository, cd to the root directory and use the following maven commands to build a jar:
 
-mvn compile
-mvn package
+- mvn compile
+- mvn package
 
 ## Tests
